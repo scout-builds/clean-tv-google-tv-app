@@ -1,0 +1,46 @@
+{
+  "name": "Clean TV — Google TV App",
+  "version": "1.0.0",
+  "target": "Google TV · TCL TV",
+  "type": "google_tv_app",
+  "repo": "",
+  "packageName": "app.cleantv.tv",
+  "features": [
+    "Netflix-style interface",
+    "Library + built-in player",
+    "Real-Debrid login inside the app (your own account)",
+    "Addon slot — installs addons from a GitHub repo URL",
+    "Side-by-side with Kodi — Kodi stays untouched",
+    "A spot where I can add all of my logins for my other subscription services like Hulu, Disney, etc. that way they’re all in one player. The ones that can’t be played from that will just open up using the real debrid key / some kind of scraper"
+  ],
+  "ideas": [],
+  "details": [
+    {
+      "label": "Package name",
+      "value": "app.cleantv.tv"
+    },
+    {
+      "label": "Device",
+      "value": "TCL Google TV"
+    },
+    {
+      "label": "Interface",
+      "value": "Netflix-style rows, library, player"
+    },
+    {
+      "label": "Real-Debrid",
+      "value": "In-app login field — Settings → Accounts"
+    },
+    {
+      "label": "Addon slot",
+      "value": "Install from GitHub repo URL"
+    },
+    {
+      "label": "Coexists with",
+      "value": "Kodi (separate package, untouched)"
+    }
+  ],
+  "builtAt": "2026-11-13T00:42:24.362Z",
+  "buildId": 3,
+  "format": "Complete Android TV project (source + full web UI). Build with Gradle/Android Studio to produce the sideloadable APK — see README-FIRST.txt."
+}

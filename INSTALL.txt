@@ -1,0 +1,6 @@
+GETTING THE APK + INSTALLING
+1. Unzip this package on a computer.
+2. Open the folder in Android Studio > Build > Build APK(s) — or run: ./gradlew assembleDebug
+3. Sideload the APK from app/build/outputs/apk/debug/ to the TCL TV with Downloader or Send Files to TV.
+4. Open Clean TV > Settings to add your own Real-Debrid token and subscription logins; Addons installs from a GitHub repo URL.
+Kodi stays installed separately and untouched. Full detail: README-FIRST.txt.
