@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "target": "Google TV · TCL TV",
   "type": "google_tv_app",
-  "repo": "",
+  "repo": "https://github.com/scout-builds/clean-tv-google-tv-app",
   "packageName": "app.cleantv.tv",
   "features": [
     "Netflix-style interface",
@@ -40,7 +40,7 @@
       "value": "Kodi (separate package, untouched)"
     }
   ],
-  "builtAt": "2026-11-13T00:42:24.362Z",
-  "buildId": 3,
+  "builtAt": "2026-11-16T17:15:52.922Z",
+  "buildId": 5,
   "format": "Complete Android TV project (source + full web UI). Build with Gradle/Android Studio to produce the sideloadable APK — see README-FIRST.txt."
 }

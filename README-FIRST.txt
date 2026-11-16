@@ -53,4 +53,4 @@ FEATURES IN THIS BUILD
   - Side-by-side with Kodi — Kodi stays untouched
   - A spot where I can add all of my logins for my other subscription services like Hulu, Disney, etc. that way they’re all in one player. The ones that can’t be played from that will just open up using the real debrid key / some kind of scraper
 
-Built by APK Builder console · Build #3 · 2026-11-13T00:42:24.362Z
+Built by APK Builder console · Build #5 · 2026-11-16T17:15:52.922Z
